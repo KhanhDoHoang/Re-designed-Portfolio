@@ -1,0 +1,24 @@
+{
+  "name": "re-designed-portfolio",
+  "version": "1.0.0",
+  "description": "Working on updated portfolio",
+  "main": "index.js",
+  "homepage": "https://khanhdohoang.github.io/HoangD_IsmE",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KhanhDoHoang/Re-designed-Portfolio.git"
+  },
+  "author": "Hoang Do",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KhanhDoHoang/Re-designed-Portfolio/issues"
+  },
+  "dependencies": {
+    "gh-pages": "^3.1.0"
+  },
+  "devDependencies": {}
+}
