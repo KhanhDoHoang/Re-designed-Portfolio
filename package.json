@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Working on updated portfolio",
   "main": "index.js",
-  "homepage": "https://khanhdohoang.github.io/HoangD_IsmE",
+  "homepage": "https://khanhdohoang.github.io/HoangDo2000",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "deploy": "gh-pages -d dist"
