@@ -808,3 +808,22 @@ nav ul li a:hover {
 .theBody {
   background-color: rgb(250, 195, 56);
 }
+
+.side-btn {
+  margin-top: 50vh;
+  z-index: 10000;
+  position: absolute;
+  margin-left: 90%;
+}
+
+.side-btn ul {
+  list-style-type: none;
+}
+
+.side-btn a {
+  color: antiquewhite;
+}
+
+.side-btn a:hover {
+  color: #e3583b;
+}
